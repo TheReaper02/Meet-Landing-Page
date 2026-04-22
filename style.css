@@ -108,7 +108,7 @@ button {
     margin-left: calc(50% - 60vw);
     height: 10rem;
     margin-bottom: var(--space-32);
-    background-image: url(./assets/tablet/image-hero.png);
+    background-image: url(./starter-code/assets/tablet/image-hero.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -272,7 +272,7 @@ button {
     margin-left: calc(50% - 50vw);
     text-align: center;
     padding: var(--space-16) var(--space-24) var(--space-64);
-    background-image: url(./assets/mobile/image-footer.jpg);
+    background-image: url(./starter-code/assets/mobile/image-footer.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -329,7 +329,7 @@ button {
     .hero::before {
         height: 20rem;
         width: 110vw;
-        background-image: url("./assets/tablet/image-hero.png");
+        background-image: url("./starter-code/assets/tablet/image-hero.png");
         background-repeat: no-repeat;
         background-position: center;
         background-size: contain;
@@ -349,7 +349,7 @@ button {
     }
 
     .cta {
-        background-image: url(./assets/tablet/image-footer.jpg);
+        background-image: url(./starter-code/assets/tablet/image-footer.jpg);
             padding-inline: var(--space-64);
     }
 
@@ -410,7 +410,7 @@ button {
     }
 
     .cta {
-        background-image: url(./assets/desktop/image-footer.jpg);
+        background-image: url(./starter-code/assets/desktop/image-footer.jpg);
         background-position: center top;
     }
 }

@@ -51,8 +51,8 @@ The goal was to practice clean structure, responsive layouts, and consistent sty
 
 ## Folder Structure
 
-- starter-code/index.html
-- starter-code/style.css
+- index.html
+- style.css
 - starter-code/assets/
 
 ## Author
