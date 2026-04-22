@@ -2,8 +2,6 @@
 
 A responsive landing page built as a Frontend Mentor challenge using semantic HTML and modern CSS.
 
-![Project preview](./preview.jpg)
-
 ## Final Project Output
 
 ![Final project output](./starter-code/project-output.png)
