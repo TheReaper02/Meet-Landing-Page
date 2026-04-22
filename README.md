@@ -57,4 +57,4 @@ The goal was to practice clean structure, responsive layouts, and consistent sty
 
 ## Author
 
-Frontend Mentor learner project by Roli.
+- GitHub - [TheReaper02](https://github.com/TheReaper02)
